@@ -1,0 +1,20 @@
+.navbar{
+    background-color: red;
+    font:message-box;
+    height: 250px;
+ }
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    font-size: 12px;
+    font-display: 10px;
+    
+    justify-content: left;
+    position: absolute;
+    top: 9%;
+    right:4%;
+
+}
+.navbar-light .navbar-nav .nav-link  :hover{
+    text-decoration: underline;
+   
+}
